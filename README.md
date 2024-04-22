@@ -2,7 +2,8 @@
 
 ### ℹ️ About me
 I work as a Python Developer.
-I have a background in Mechatronics - experienced Robotics Engineer.
+
+I have a background in Mechatronics. My previous role was Robotics Engineer. 🤖
 
 <!--
 **todr93/todr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
